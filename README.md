@@ -1,6 +1,7 @@
 # LiveChat
 <p align= "center">
   <h1 align= "center">Messaging Application using Express, React, Node.js and socket.io</h1>
+  <a href="https://livechat-application.netlify.app/"><p align="center">Use it Here!</p></a>
 </p>
 
 LiveChat is a live chat room with different rooms and instant messaging.
